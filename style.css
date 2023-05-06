@@ -2,3 +2,7 @@ main {
   display: flex;
   flex-direction: column;
 }
+.flex {
+  display: flex;
+  gap: 40px;
+}
